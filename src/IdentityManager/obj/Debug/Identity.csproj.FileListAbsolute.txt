@@ -1,0 +1,10 @@
+C:\Development\Labs\EventDemo\IdentityManager\bin\Debug\Identity.dll
+C:\Development\Labs\EventDemo\IdentityManager\bin\Debug\Identity.pdb
+C:\Development\Labs\EventDemo\IdentityManager\obj\Debug\Identity.dll
+C:\Development\Labs\EventDemo\IdentityManager\obj\Debug\Identity.pdb
+C:\Development\Labs\EventDemo\IdentityManager\obj\Debug\Identity.csprojResolveAssemblyReference.cache
+C:\Development\Labs\EventDemo\src\IdentityManager\bin\Debug\Identity.dll
+C:\Development\Labs\EventDemo\src\IdentityManager\bin\Debug\Identity.pdb
+C:\Development\Labs\EventDemo\src\IdentityManager\obj\Debug\Identity.csprojResolveAssemblyReference.cache
+C:\Development\Labs\EventDemo\src\IdentityManager\obj\Debug\Identity.dll
+C:\Development\Labs\EventDemo\src\IdentityManager\obj\Debug\Identity.pdb

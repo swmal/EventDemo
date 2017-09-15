@@ -1,0 +1,14 @@
+C:\Development\Labs\EventDemo\Domain\bin\Debug\Domain.dll
+C:\Development\Labs\EventDemo\Domain\bin\Debug\Domain.pdb
+C:\Development\Labs\EventDemo\Domain\bin\Debug\Identity.dll
+C:\Development\Labs\EventDemo\Domain\bin\Debug\Identity.pdb
+C:\Development\Labs\EventDemo\Domain\obj\Debug\Domain.csprojResolveAssemblyReference.cache
+C:\Development\Labs\EventDemo\Domain\obj\Debug\Domain.dll
+C:\Development\Labs\EventDemo\Domain\obj\Debug\Domain.pdb
+C:\Development\Labs\EventDemo\src\Domain\bin\Debug\Domain.dll
+C:\Development\Labs\EventDemo\src\Domain\bin\Debug\Domain.pdb
+C:\Development\Labs\EventDemo\src\Domain\bin\Debug\Identity.dll
+C:\Development\Labs\EventDemo\src\Domain\bin\Debug\Identity.pdb
+C:\Development\Labs\EventDemo\src\Domain\obj\Debug\Domain.csprojResolveAssemblyReference.cache
+C:\Development\Labs\EventDemo\src\Domain\obj\Debug\Domain.dll
+C:\Development\Labs\EventDemo\src\Domain\obj\Debug\Domain.pdb

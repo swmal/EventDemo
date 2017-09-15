@@ -1,0 +1,16 @@
+C:\Development\Labs\EventDemo\EventDemo\bin\Debug\EventDemo.exe.config
+C:\Development\Labs\EventDemo\EventDemo\bin\Debug\EventDemo.exe
+C:\Development\Labs\EventDemo\EventDemo\bin\Debug\EventDemo.pdb
+C:\Development\Labs\EventDemo\EventDemo\bin\Debug\KeyValueStore.dll
+C:\Development\Labs\EventDemo\EventDemo\bin\Debug\KeyValueStore.pdb
+C:\Development\Labs\EventDemo\EventDemo\obj\Debug\EventDemo.csprojResolveAssemblyReference.cache
+C:\Development\Labs\EventDemo\EventDemo\obj\Debug\EventDemo.exe
+C:\Development\Labs\EventDemo\EventDemo\obj\Debug\EventDemo.pdb
+C:\Development\Labs\EventDemo\src\EventDemo\bin\Debug\EventDemo.exe.config
+C:\Development\Labs\EventDemo\src\EventDemo\bin\Debug\EventDemo.exe
+C:\Development\Labs\EventDemo\src\EventDemo\bin\Debug\EventDemo.pdb
+C:\Development\Labs\EventDemo\src\EventDemo\bin\Debug\KeyValueStore.dll
+C:\Development\Labs\EventDemo\src\EventDemo\bin\Debug\KeyValueStore.pdb
+C:\Development\Labs\EventDemo\src\EventDemo\obj\Debug\EventDemo.csprojResolveAssemblyReference.cache
+C:\Development\Labs\EventDemo\src\EventDemo\obj\Debug\EventDemo.exe
+C:\Development\Labs\EventDemo\src\EventDemo\obj\Debug\EventDemo.pdb

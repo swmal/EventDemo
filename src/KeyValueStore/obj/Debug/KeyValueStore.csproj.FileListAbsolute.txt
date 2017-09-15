@@ -1,0 +1,10 @@
+C:\Development\Labs\EventDemo\KeyValueStore\bin\Debug\KeyValueStore.dll
+C:\Development\Labs\EventDemo\KeyValueStore\bin\Debug\KeyValueStore.pdb
+C:\Development\Labs\EventDemo\KeyValueStore\obj\Debug\KeyValueStore.dll
+C:\Development\Labs\EventDemo\KeyValueStore\obj\Debug\KeyValueStore.pdb
+C:\Development\Labs\EventDemo\KeyValueStore\obj\Debug\KeyValueStore.csprojResolveAssemblyReference.cache
+C:\Development\Labs\EventDemo\src\KeyValueStore\bin\Debug\KeyValueStore.dll
+C:\Development\Labs\EventDemo\src\KeyValueStore\bin\Debug\KeyValueStore.pdb
+C:\Development\Labs\EventDemo\src\KeyValueStore\obj\Debug\KeyValueStore.csprojResolveAssemblyReference.cache
+C:\Development\Labs\EventDemo\src\KeyValueStore\obj\Debug\KeyValueStore.dll
+C:\Development\Labs\EventDemo\src\KeyValueStore\obj\Debug\KeyValueStore.pdb

@@ -1,0 +1,10 @@
+C:\Development\Labs\EventDemo\UiComponents\bin\Debug\UiComponents.dll
+C:\Development\Labs\EventDemo\UiComponents\bin\Debug\UiComponents.pdb
+C:\Development\Labs\EventDemo\UiComponents\obj\Debug\UiComponents.dll
+C:\Development\Labs\EventDemo\UiComponents\obj\Debug\UiComponents.pdb
+C:\Development\Labs\EventDemo\UiComponents\obj\Debug\UiComponents.csprojResolveAssemblyReference.cache
+C:\Development\Labs\EventDemo\src\UiComponents\bin\Debug\UiComponents.dll
+C:\Development\Labs\EventDemo\src\UiComponents\bin\Debug\UiComponents.pdb
+C:\Development\Labs\EventDemo\src\UiComponents\obj\Debug\UiComponents.csprojResolveAssemblyReference.cache
+C:\Development\Labs\EventDemo\src\UiComponents\obj\Debug\UiComponents.dll
+C:\Development\Labs\EventDemo\src\UiComponents\obj\Debug\UiComponents.pdb

@@ -1,0 +1,9 @@
+C:\Development\Labs\EventDemo\QueueListener\bin\Debug\QueueListener.dll
+C:\Development\Labs\EventDemo\QueueListener\bin\Debug\QueueListener.pdb
+C:\Development\Labs\EventDemo\QueueListener\bin\Debug\Microsoft.Diagnostics.Tracing.EventSource.dll
+C:\Development\Labs\EventDemo\QueueListener\bin\Debug\RabbitMQ.Client.dll
+C:\Development\Labs\EventDemo\QueueListener\bin\Debug\Microsoft.Diagnostics.Tracing.EventSource.xml
+C:\Development\Labs\EventDemo\QueueListener\bin\Debug\RabbitMQ.Client.xml
+C:\Development\Labs\EventDemo\QueueListener\obj\Debug\QueueListener.csprojResolveAssemblyReference.cache
+C:\Development\Labs\EventDemo\QueueListener\obj\Debug\QueueListener.dll
+C:\Development\Labs\EventDemo\QueueListener\obj\Debug\QueueListener.pdb
